@@ -3,11 +3,11 @@ import time
 
 
 # Configura tu token de acceso del bot
-token = "6748261723:AAGMdMHtf-BUT17a1E3KJ86DOjpUxWn1zD4"
+token = ""
 bot = telebot.TeleBot(token)  # La clase se llama TeleBot, no Telebot
 
 # Envía un mensaje
-chat_id = '6491419713'
+chat_id = ''
 mensaje = 'Alerta! producto: '
 
 
